@@ -213,3 +213,4 @@ def read_root():
 # cd PythonProject\gemini-audio-python
 # venv\Scripts\activate
 # uvicorn main:app --reload --host 0.0.0.0 --port 3000
+#gcloud compute ssh root@therafy-vm --zone=us-central1-a
